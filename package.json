@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/WoodyPhil.plainjs-kvkv1hka-fork-kvkv35rx",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve bGcDBlu0bk8xQca4VpCu --open"
+  }
+}
